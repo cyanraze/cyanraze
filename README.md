@@ -21,4 +21,4 @@
 `admin@doxbin.tech`
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=cyanraze&show_icons=true&theme=synthwave)
+![Stats](https://github-readme-stats.vercel.app/api?username=cyanraze&show_icons=true&theme=tokyonight)
